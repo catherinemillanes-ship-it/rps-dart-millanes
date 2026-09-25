@@ -1,7 +1,7 @@
 # Two-Player Rock, Paper, Scissors
 
 ## Name
-Catherine Millanes
+Catherine B. Millanes
 
 ## Section
 BSIT 3A-ILFV3
